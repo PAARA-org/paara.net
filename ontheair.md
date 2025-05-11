@@ -4,7 +4,7 @@
 
 The **PAARA Discord** server (read [PAARAgraphs](/newsletter.html) to find the invite link) has a bot that will post a message whenever a PAARA member call sign is activating a park or a summit, so that other members can try to hunt or chase from their location.
 
-If you'd like to know more, or you'd like to join one of us for an activation in a nearby park, please get in touch with us on Discord on `#pota` or `#sota`, or reach out to Connie (**W6EFI**), Justin (**AI6YM**), or Sorin (**KN6YUH**).
+If you'd like to know more, or you'd like to join one of us for an activation in a nearby park, please get in touch with us on Discord on `#pota` or `#sota`, or reach out to Connie (**W6EFI**), Elliot (**AK6EU**), Justin (**AI6YM**), or Sorin (**KN6YUH**).
 
 ## Parks on the Air (POTA)
 
@@ -16,7 +16,7 @@ You need to make 10 contacts for a successful activation, and the activator is t
 
 ### Nearby Parks
 
-![pota-bay-area-map](/images/pota-bay-area-map.jpeg))
+![pota-bay-area-map](/images/pota-bay-area-map.jpeg)
 
 A few nearby parks:
 
